@@ -1,0 +1,17 @@
+{
+  "name": "application",
+  "version": "1.0.0",
+  "description": "main folder that will be for the midterm",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angelo Esmeralda",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.1",
+    "mock-bank": "file:../mock-bank",
+    "tvmaze-api": "file:../tvmaze-api",
+    "yargs": "^17.3.1"
+  }
+}

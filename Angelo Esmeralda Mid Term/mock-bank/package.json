@@ -1,0 +1,11 @@
+{
+  "name": "mock-bank",
+  "version": "1.0.0",
+  "description": "Module that allows users to simulate depositing, withdrawaling, and checking a bank account",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angelo Esmeralda",
+  "license": "MIT"
+}

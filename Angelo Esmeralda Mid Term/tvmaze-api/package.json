@@ -1,0 +1,14 @@
+{
+  "name": "tvmaze-api",
+  "version": "1.0.0",
+  "description": "package that handles operation between user and the tv maze api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angelo Esmeralda",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^7.1.1"
+  }
+}

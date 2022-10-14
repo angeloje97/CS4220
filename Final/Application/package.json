@@ -1,0 +1,19 @@
+{
+  "name": "final-tv-maze",
+  "version": "1.0.0",
+  "description": "Final application for Trends in web design or CSLA 4220 CS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/nodemon server.js"
+  },
+  "author": "Angelo Esmeralda",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongodb": "^4.5.0",
+    "nodemon": "^2.0.16",
+    "tvmaze-api": "file:../tvmaze-api"
+  }
+}
